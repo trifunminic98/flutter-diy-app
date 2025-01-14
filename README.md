@@ -1,6 +1,6 @@
 # DIY Helper App
 
-**DIY Helper App** is a Flutter application designed to help users find solutions to various household problems using local data or AI-powered search.
+**DIY Helper App** is a DIY Helper App is a Flutter application in development, designed to help users to find solutions to various household problems using local data or AI-powered search.
 
 ## 🎯 Key Features
 - **Offline Search**: Provides solutions for common issues from a local database.
